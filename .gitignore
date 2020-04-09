@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+*.pyc
+
+*.zip
+dataset/
+others/
+ghostdriver.log
+*.out
+*.sh
